@@ -1,4 +1,4 @@
-I have explored and carried out some additional queries on Data Science project from DataCamp track course; 'A Visual History of Nobel Prize Winners (1906-2016)'.
+I have explored and carried out some additional queries on Data Science project from DataCamp track course; 'Data Scientist with Python (Specialization)'.
 
 Files:-
 
