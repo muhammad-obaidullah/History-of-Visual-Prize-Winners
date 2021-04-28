@@ -8,3 +8,6 @@ outputs: This folder contains the visualization of the datasets.
 
 datasets: This folder contains the dataset file 'nobel.csv'.
 
+Some Outputs Samples: 
+
+![output1](https://user-images.githubusercontent.com/22115788/116392352-c8c6b500-a839-11eb-9c1e-0800692c0339.png)
