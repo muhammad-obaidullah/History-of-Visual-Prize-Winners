@@ -13,7 +13,7 @@ from matplotlib.ticker import PercentFormatter
 pd.set_option("display.max_rows", None, "display.max_columns", None) 
 
 # READ CSV FILE
-df = pd.read_csv('E:/My Stuff/E-Course/VVI&C/DS Projects/A Visual History of Nobel Prize Winners/datasets/nobel.csv')
+df = pd.read_csv('Enter/Path/To/Dataset/nobel.csv')
 
 # PRINTING COLUMN INFO
 print("-->Printing the Columns in DataFrame:\n",df.columns) 
